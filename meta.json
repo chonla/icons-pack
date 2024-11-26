@@ -1,0 +1,34 @@
+{
+    "icons": [
+        {
+            "title": "Add",
+            "file": "add.svg",
+            "keywords": [ "add", "math" ]
+        },
+        {
+            "title": "Cancel",
+            "file": "cancel.svg",
+            "keywords": [ "cancel", "confirm" ]
+        },
+        {
+            "title": "Edit",
+            "file": "edit.svg",
+            "keywords": [ "edit", "form" ]
+        },
+        {
+            "title": "Ok",
+            "file": "ok.svg",
+            "keywords": [ "ok", "confirm" ]
+        },
+        {
+            "title": "Shrink",
+            "file": "shrink.svg",
+            "keywords": [ "shrink", "sizing", "size" ]
+        },
+        {
+            "title": "Widen",
+            "file": "widen.svg",
+            "keywords": [ "widen", "expand", "sizing", "size" ]
+        }
+    ]
+}
